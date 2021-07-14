@@ -11,5 +11,6 @@ public class TestMethodRef {
     public  void method1(){
         System.out.println("测试分支");
         System.out.println("测试分支11");
+        System.out.println("测试分支22");
     }
 }
