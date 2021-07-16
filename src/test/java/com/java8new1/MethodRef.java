@@ -52,9 +52,9 @@ public class MethodRef {
     }
     @Test
     public void method8(){
-        Function<Integer,pojo> fun = pojo::new;
-        pojo apply = fun.apply(18);
-        System.out.println(apply);
+//        Function<Integer,pojo> fun = pojo::new;
+//        pojo apply = fun.apply(18);
+//        System.out.println(apply);
     }
     @Test
     public void method9(){
